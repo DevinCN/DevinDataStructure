@@ -4,11 +4,11 @@
 
 * [简介](README.md)
 
-## 【Data Structure】
+## 【数据结构】
 
 * [part 1](part-1.md)
 
-## 【Algorithm】
+## 【算法】
 
 * [part 2](part-2.md)
 
