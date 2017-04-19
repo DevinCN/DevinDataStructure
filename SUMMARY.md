@@ -1,8 +1,14 @@
 # Summary
 
+
+
 * [简介](README.md)
-  * [part 2](part-2.md)
+
+## 【Data Structure】
+
 * [part 1](part-1.md)
-  * [chapter 1](part-1/chapter-1.md)
+
+## 【Algorithm】
+
 * [part 2](part-2.md)
 
